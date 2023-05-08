@@ -39,6 +39,6 @@ Connect with me :
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
     
 </div>
- <img  src="snake.svg" alt="example" />\
+ <img  src="snake.svg" alt="example" />
  [![Jitenderji1137's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jitenderji1137&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true)](https://github.com/jitenderji1137)
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
