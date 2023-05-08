@@ -33,15 +33,11 @@ Connect with me :
    </p>
 </div>
 
-<h3 align="left">Support:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitenderji1137&show_icons=true&locale=en&layout=compact" alt="jitenderji1137" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitenderji1137&show_icons=true&locale=en" alt="jitenderji1137" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitenderji1137&" alt="jitenderji1137" /></p>
-
-
-<p><a href="https://www.buymeacoffee.com/jitenderji1137"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jitenderji1137" /></a></p><br><br>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+    
+</div>
  
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
