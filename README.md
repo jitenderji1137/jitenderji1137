@@ -39,6 +39,5 @@ Connect with me :
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
     
 </div>
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/113350806/236859502-f9195f36-56de-49a0-a1d4-296191a407b2.svg)
-
+ <img  src="snake.svg" alt="example" />
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
