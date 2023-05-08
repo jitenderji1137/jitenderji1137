@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/jitenderji1137)
-<h1 align="center">Hi 👋, I'm jitender</h1>
+<h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Jitender 🙂</h1>
 <h3 align="center">A passionate to be a Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenderji1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitenderji1137" /> </p>
