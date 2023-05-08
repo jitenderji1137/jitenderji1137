@@ -35,7 +35,7 @@ Connect with me :
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="50%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jitenderji1137&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;" width="49%"> 
     
 </div>
