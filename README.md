@@ -10,10 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jitenderji1137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitenderji1137" height="30" width="40" /></a>
-</p>
+Connect with me :
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jitender1137?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://www.linkedin.com/in/jitender1137?original_referer=https%3A%2F%2Fwww.google.com%2F)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trademetrader1137@gmail.com)](mailto:trademetrader1137@gmail.com)
 
    <div align="center">
     <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
