@@ -1,4 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/jitenderji1137)
+<div align="center"><img src="https://github.com/jitenderji1137/jitenderji1137/assets/113350806/12765808-f51d-40e0-b2e9-ba2a27fa8c84" alt="example" width="50px"/></div>
 <h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Jitender 🙂</h1>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+to+be+Tester+from+India" alt="A passionate to be a Tester" />
@@ -40,6 +41,5 @@ Connect with me :
     
 </div>
  <img  src="snake.svg" alt="example" />
- <div align="center"><img src="https://github.com/jitenderji1137/jitenderji1137/assets/113350806/12765808-f51d-40e0-b2e9-ba2a27fa8c84" alt="example" width="50px"/></div>
  <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=jitenderji1137&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true" alt="example" />
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
