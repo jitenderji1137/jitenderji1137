@@ -16,6 +16,13 @@ export default function Main(){
                         <a href="mailto:trademetrader1137@gmail.com">Get In Touch</a>
                     </div>
                 </section>
+                <section className="Aboutme">
+                    <h3>About Me</h3>
+                    <div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </section>
             </main>
         </div>
         </>
