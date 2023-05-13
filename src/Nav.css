@@ -59,14 +59,14 @@
     position: relative;
     font-size: 13px;
     counter-increment: item 1;
-    font-family: "Roboto Mono";
+    font-family: "Roboto Mono",sans-serif;
 }
 .NavMenue ol li::before{
     content: "0" counter(item) ".";
     text-align: right;
     color: rgb(100, 255, 218);
     font-size: 12px;
-    font-family: "Roboto Mono";
+    font-family: "Roboto Mono",sans-serif;
 }
 .NavMenue ol li span{
     padding: 12px 10px;

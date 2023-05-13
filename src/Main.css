@@ -105,3 +105,140 @@
     margin-left: 20px;
     margin-top: 5px;
 }
+.AboutPara{
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: flex-start;
+}
+.AboutPara1{
+    width: 60%;
+    max-width: 480px;
+}
+.AboutPara2{
+    position: relative;
+    width: 40%;
+    max-width: 300px;
+    margin-left: 60px;
+}
+.AboutPara1 ul{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(140px, 200px));
+    overflow: hidden;
+    padding: 0px;
+    margin: 20px 0px 0px;
+    list-style: none;
+}
+.AboutPara1 div p{
+    margin: 0px 0px 15px;
+    font-size: 18px;
+}
+.AboutPara1 ul li{
+    position: relative;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-size: 13px;
+    color: rgb(100, 255, 218);
+}
+.AboutPara1 ul li::before{
+    content: "▹";
+    position: absolute;
+    left: 0px;
+    color: rgb(100, 255, 218);
+    font-size: 14px;
+    line-height: 12px;
+}
+.AboutPara2 a{
+    box-shadow: rgba(2, 12, 27, 0.7) 0px 10px 30px -15px;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    width: 100%;
+    position: relative;
+    border-radius: 3px;
+    background-color: rgb(204, 214, 246);
+    margin-left: -20px;
+}
+.AboutPara2 a::before{
+    inset: 0px;
+    background-color: rgb(10, 25, 47);
+    mix-blend-mode: screen;
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+.AboutPara2 a div::after{
+    border: 2px solid rgb(100, 255, 218);
+    top: 10px;
+    left: 10px;
+    z-index: -1;
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+.AboutPara2 a div{
+    background-color: darkcyan;
+    position: relative;
+    border-radius: 3px;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+.AboutPara2 a div img{
+    width: 100%;
+    mix-blend-mode: overlay;
+    filter: grayscale(100%) contrast(1) brightness(90%);
+}
+.AboutPara2 a div img:hover{
+    mix-blend-mode: inherit;
+    filter: grayscale(0%) contrast(1) brightness(90%);
+    -webkit-filter: grayscale(0%) contrast(1) brightness(90%);
+}
+.Experence{
+    visibility: visible;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transition: opacity 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s, transform 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
+    outline: none;
+    margin: 0px auto;
+    padding: 150px 0px;
+    position: relative;
+    max-width: 700px;
+}
+.Experence h3{
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 10px 0px 40px;
+    width: 100%;
+    white-space: nowrap;
+    font-size: 30px;
+    font-family: "Concert One";
+}
+.Experence h3::before{
+    counter-increment: section 1;
+    content: "0" counter(section) ".";
+    margin-right: 10px;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-weight: normal;
+    color: rgb(100, 255, 218);
+    font-size: 30px;
+    position: relative;
+}
+.Experence h3::after{
+    content: "";
+    display: block;
+    height: 1px;
+    width: 300px;
+    background-color: rgb(48, 60, 85);
+    position: relative;
+    top: 5px;
+    margin-left: 20px;
+}
