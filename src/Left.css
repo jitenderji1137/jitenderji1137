@@ -1,0 +1,40 @@
+.Left{
+    width: 40px;
+    position: fixed;
+    bottom: 0px;
+    left: 40px;
+    right: auto;
+    z-index: 10;
+    color: rgb(100, 255, 218);
+}
+.Left ul{
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.Left ul::after{
+    content: "";
+    display: block;
+    width: 1px;
+    height: 150px;
+    margin: 0px auto;
+    background-color: rgb(168, 178, 209);
+}
+.Left ul li a{
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-decoration-skip-ink: auto;
+    color: inherit;
+    position: relative;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    cursor: pointer;
+}
+.Left ul li a svg{
+    width: 30px;
+    height: 30px;
+}

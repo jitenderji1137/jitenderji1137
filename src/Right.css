@@ -1,0 +1,39 @@
+.Right{
+    width: 40px;
+    position: fixed;
+    bottom: 0px;
+    left: auto;
+    right: 40px;
+    z-index: 10;
+    color: rgb(100, 255, 218);
+}
+.Right div{
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+}
+.Right div::after{
+    content: "";
+    display: block;
+    width: 1px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: rgb(168, 178, 209);
+}
+.Right div a{
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    letter-spacing: 0.1em;
+    -webkit-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+    margin: 20px auto;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-decoration-skip-ink: auto;
+    color: rgb(100, 255, 218);
+    position: relative;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    cursor: pointer;
+}
