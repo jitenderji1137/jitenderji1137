@@ -134,6 +134,9 @@
     margin: 0px 0px 15px;
     font-size: 17px;
 }
+.AboutPara1 div p span{
+    color:rgb(100, 255, 218);
+}
 .AboutPara1 ul li{
     position: relative;
     margin-bottom: 10px;
@@ -182,7 +185,11 @@
     width: 100%;
     height: 100%;
     border-radius: 3px;
-    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    transition: all 25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+.AboutPara2 a div:hover::after{
+    top: 15px;
+    left: 15px;
 }
 .AboutPara2 a div{
     background-color: darkcyan;
@@ -190,15 +197,18 @@
     border-radius: 3px;
     transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
 }
+.AboutPara2 a div:hover{
+    background-image: url("https://github.com/jitenderji1137/nested-loop/assets/113350806/6d0a36f0-a468-45c8-ba4c-61f8c886dcd0");
+    background-size: contain;
+}
 .AboutPara2 a div img{
     width: 100%;
     mix-blend-mode: overlay;
     filter: grayscale(100%) contrast(1) brightness(90%);
 }
 .AboutPara2 a div img:hover{
-    mix-blend-mode: inherit;
-    filter: grayscale(0%) contrast(1) brightness(90%);
-    -webkit-filter: grayscale(0%) contrast(1) brightness(90%);
+    background-image: url("https://github.com/jitenderji1137/nested-loop/assets/113350806/6d0a36f0-a468-45c8-ba4c-61f8c886dcd0");
+    background-size: contain;
 }
 .Experence{
     visibility: visible;

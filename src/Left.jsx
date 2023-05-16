@@ -9,7 +9,7 @@ export default function Left(){
             <ul>
                 <li><a href="https://github.com/jitenderji1137" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a></li>
                 <li><a href="https://www.linkedin.com/in/jitender1137/" target="_blank" rel="nofollow noopener noreferrer"><GrLinkedinOption/></a></li>
-                <li><a href="/" target="_blank" rel="nofollow noopener noreferrer"><TbBrandWhatsapp/></a></li>
+                <li><a href="https://api.whatsapp.com/send?phone=918307056141" target="_blank" rel="nofollow noopener noreferrer"><TbBrandWhatsapp/></a></li>
                 <li><a href="https://www.instagram.com/vijayji1137/" target="_blank" rel="nofollow noopener noreferrer"><AiOutlineInstagram/></a></li>
             </ul>
         </div>

@@ -21,11 +21,11 @@ export default function Main(){
                     <div className="AboutPara">
                         <div className="AboutPara1">
                             <div>
-                                <p>Hello! I'm Jitender, from Haryana, is known for its agricultural and industrial production.</p>
+                                <p>Hello! I'm <span>Jitender</span>, from <span>Haryana</span>, is known for its agricultural and industrial production.</p>
                                 <p>I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.</p>
                                 <p></p>
-                                <p>I have successfully achieved 70% in 12th standard(2021-2022), paving the way for a bright future.</p>
-                                <p>Here are a few of the other activities that I love to do!</p>
+                                <p>I have successfully achieved <span>70%</span> in <span>12th</span> standard(<span>2021-2022</span>), paving the way for a <span>bright future</span>.</p>
+                                <p>Here are a few of the activities that <span>I love to do</span>!</p>
                             </div>
                             <ul>
                                 <li>Coding</li>
