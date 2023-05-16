@@ -6,7 +6,9 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenderji1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitenderji1137" /> </p>
-
+<samp>
+I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+</samp>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitenderji1137&theme=radical" alt="jitenderji1137" width="100%" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
