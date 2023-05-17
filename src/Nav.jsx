@@ -16,7 +16,7 @@ export default function Nav(){
                             <li><span>Projects</span></li>
                             <li><span>Contact</span></li>
                         </ol>
-                        <button className="resume">Resume</button>
+                        <button className="resume"><a href="https://drive.google.com/file/d/1vd2NLE51182ycV2jCtDVyJyic6peyA3E/view?usp=share_link">Resume</a></button>
                     </div>
                 </nav>
             </header>

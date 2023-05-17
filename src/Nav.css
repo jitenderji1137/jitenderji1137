@@ -89,3 +89,7 @@
     margin-left: 10px;
     font-size: 13px;
 }
+.resume a{
+    text-decoration: none;
+    color: rgb(100, 255, 218);
+}
