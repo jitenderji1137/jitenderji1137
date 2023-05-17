@@ -47,6 +47,27 @@
     margin: 0px 0px 15px;
     font-size: 17px;
 }
+.paragraph p a{
+    display: inline-block;
+    text-decoration: none;
+    text-decoration-skip-ink: auto;
+    position: relative;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    cursor: pointer;
+    color: rgb(100, 255, 218);
+}
+.paragraph p a::after{
+    content: "";
+    display: block;
+    width: 0%;
+    height: 1px;
+    position: relative;
+    background-color: rgb(100, 255, 218);
+    transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+.paragraph p a:hover::after{
+    width: 100%;
+}
 .Getintouch{
     margin-top: 50px;
 }
