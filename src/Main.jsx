@@ -1,4 +1,5 @@
 import "./Main.css";
+import { AiFillGithub} from "react-icons/ai";
 export default function Main(){
     return(
         <>
@@ -32,9 +33,9 @@ export default function Main(){
                                 <li>Problem Solving</li>
                                 <li>Team Management</li>
                                 <li>Discipline</li>
-                                <li>Crafting</li>
-                                <li></li>
-                                <li></li>
+                                <li>Creativity</li>
+                                <li>Decision Making</li>
+                                <li>Communication</li>
                             </ul>
                         </div>
                         <div className="AboutPara2">
@@ -49,6 +50,37 @@ export default function Main(){
                 <section className="Experence">
                     <h3>My Journy</h3>
                     <div></div>
+                </section>
+                <section className="Projects">
+                    <h3>My Projects.</h3>
+                    <div>
+                        <div>
+                            <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
+                                <img src="https://user-images.githubusercontent.com/113350806/236673378-32a37258-4ccf-48e4-9ae5-046d6004a023.png" alt="" />
+                            </a>
+                            <div>
+                                <h4>API Testing Project.</h4>
+                                <h5>
+                                    <a href="/">Github API Testing Project</a>
+                                </h5>
+                                <div className="float">
+                                    <p>Streamline your GitHub API testing and integration by leveraging powerful GitHub APIs. Enhance collaboration, automate workflows, and unlock the full potential of your projects with seamless API interactions.</p>
+                                    <p>Tested all the <span>API requests</span> of GitHub</p>
+                                </div>
+                                <ul>
+                                    <li>Postman</li>
+                                    <li>Cypress</li>
+                                    <li>REST Assured</li>
+                                </ul>
+                                <div>
+                                <a href="https://github.com/jitenderji1137/Github-API-Testing-Project" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
                 </section>
             </main>
         </div>
