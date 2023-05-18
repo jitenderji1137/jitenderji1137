@@ -1,5 +1,6 @@
 import "./Main.css";
-import { AiFillGithub} from "react-icons/ai";
+import { AiFillGithub,AiOutlineFolderOpen} from "react-icons/ai";
+import { FaExternalLinkAlt} from "react-icons/fa";
 export default function Main(){
     return(
         <>
@@ -77,10 +78,197 @@ export default function Main(){
                                 </div>
                             </div>
                         </div>
-                        <div></div>
-                        <div></div>
-                        <div></div>
+                        <div className="Projects2">
+                            <div>
+                                <h4>API Testing Project.</h4>
+                                <h5>
+                                    <a href="/">Github API Testing Project</a>
+                                </h5>
+                                <div className="float-left">
+                                    <p>Streamline your GitHub API testing and integration by leveraging powerful GitHub APIs. Enhance collaboration, automate workflows, and unlock the full potential of your projects with seamless API interactions.</p>
+                                    <p>Tested all the <span>API requests</span> of GitHub</p>
+                                </div>
+                                <ul>
+                                    <li>Postman</li>
+                                    <li>Cypress</li>
+                                    <li>REST Assured</li>
+                                </ul>
+                                <div>
+                                <a href="https://github.com/jitenderji1137/Github-API-Testing-Project" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
+                                </div>
+                            </div>
+                            <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
+                                <img src="https://user-images.githubusercontent.com/113350806/236673378-32a37258-4ccf-48e4-9ae5-046d6004a023.png" alt="" />
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
+                                <img src="https://user-images.githubusercontent.com/113350806/236673378-32a37258-4ccf-48e4-9ae5-046d6004a023.png" alt="" />
+                            </a>
+                            <div>
+                                <h4>API Testing Project.</h4>
+                                <h5>
+                                    <a href="/">Github API Testing Project</a>
+                                </h5>
+                                <div className="float">
+                                    <p>Streamline your GitHub API testing and integration by leveraging powerful GitHub APIs. Enhance collaboration, automate workflows, and unlock the full potential of your projects with seamless API interactions.</p>
+                                    <p>Tested all the <span>API requests</span> of GitHub</p>
+                                </div>
+                                <ul>
+                                    <li>Postman</li>
+                                    <li>Cypress</li>
+                                    <li>REST Assured</li>
+                                </ul>
+                                <div>
+                                <a href="https://github.com/jitenderji1137/Github-API-Testing-Project" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="Projects2">
+                            <div>
+                                <h4>API Testing Project.</h4>
+                                <h5>
+                                    <a href="/">Github API Testing Project</a>
+                                </h5>
+                                <div className="float-left">
+                                    <p>Streamline your GitHub API testing and integration by leveraging powerful GitHub APIs. Enhance collaboration, automate workflows, and unlock the full potential of your projects with seamless API interactions.</p>
+                                    <p>Tested all the <span>API requests</span> of GitHub</p>
+                                </div>
+                                <ul>
+                                    <li>Postman</li>
+                                    <li>Cypress</li>
+                                    <li>REST Assured</li>
+                                </ul>
+                                <div>
+                                <a href="https://github.com/jitenderji1137/Github-API-Testing-Project" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
+                                </div>
+                            </div>
+                            <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
+                                <img src="https://user-images.githubusercontent.com/113350806/236673378-32a37258-4ccf-48e4-9ae5-046d6004a023.png" alt="" />
+                            </a>
+                        </div>
                     </div>
+                </section>
+                <section className="otherprojects">
+                    <h4>Other Noteworthy Projects</h4>
+                    <a className="viewcode" href="https://github.com/jitenderji1137">View Complete List of Projects/Codes</a>
+                    <div>
+                        <div>
+                            <div>
+                                <header>
+                                    <div className="fileone">
+                                        <div className="fileicon"><AiOutlineFolderOpen/></div>
+                                        <div className="fileones">
+                                            <a href="https://github.com/jitenderji1137/Free-Netflix"><AiFillGithub/></a>
+                                            <a href="https://free-netflix.pages.dev/"><FaExternalLinkAlt/></a>
+                                        </div>
+                                    </div>
+                                    <h5 className="nowforh5">Movie Streaming Site</h5>
+                                    <div className="nowfordiv">A platform offering a diverse range of online streaming content similar to NetFlix</div>
+                                    <ul className="forultag">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>JS</li>
+                                        <li>REACT</li>
+                                    </ul>
+                                </header>
+                            </div>
+                            <div>
+                                <header>
+                                    <div className="fileone">
+                                        <div className="fileicon"><AiOutlineFolderOpen/></div>
+                                        <div className="fileones">
+                                            <a href="https://github.com/jitenderji1137/Fun-4_Zee-5_Clone"><AiFillGithub/></a>
+                                            <a href="https://fun-4-zee-5-clone.pages.dev/"><FaExternalLinkAlt/></a>
+                                        </div>
+                                    </div>
+                                    <h5 className="nowforh5">Zee-5 Clone name as Fun-4</h5>
+                                    <div className="nowfordiv">Enjoy a seamless streaming experience with a wide variety of video content, identical to Zee-5</div>
+                                    <ul className="forultag">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>JAVASCRIPT</li>
+                                    </ul>
+                                </header>
+                            </div>
+                            <div>
+                                <header>
+                                    <div className="fileone">
+                                        <div className="fileicon"><AiOutlineFolderOpen/></div>
+                                        <div className="fileones">
+                                            <a href="https://github.com/jitenderji1137/trending-Eagle"><AiFillGithub/></a>
+                                            <a href="https://trending-eagle.pages.dev/"><FaExternalLinkAlt/></a>
+                                        </div>
+                                    </div>
+                                    <h5 className="nowforh5">Clone of American Eagle</h5>
+                                    <div className="nowfordiv">A visually replicated American Eagle website with its unique user interface and user experience.</div>
+                                    <ul className="forultag">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>JS</li>
+                                        <li>REACT</li>
+                                    </ul>
+                                </header>
+                            </div>
+                            <div>
+                                <header>
+                                    <div className="fileone">
+                                        <div className="fileicon"><AiOutlineFolderOpen/></div>
+                                        <div className="fileones">
+                                            <a href="https://github.com/jitenderji1137/Chat-Application"><AiFillGithub/></a>
+                                            <a href="https://web-chat-free.pages.dev/"><FaExternalLinkAlt/></a>
+                                        </div>
+                                    </div>
+                                    <h5 className="nowforh5">Real Time Web Chat</h5>
+                                    <div className="nowfordiv">A real-time web chat application that enables instant communication</div>
+                                    <ul className="forultag">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>JS</li>
+                                        <li>REACT</li>
+                                        <li>FIREBASE</li>
+                                    </ul>
+                                </header>
+                            </div>
+                            <div>
+                                <header>
+                                    <div className="fileone">
+                                        <div className="fileicon"><AiOutlineFolderOpen/></div>
+                                        <div className="fileones">
+                                            <a href="https://github.com/jitenderji1137/jitenderji1137"><AiFillGithub/></a>
+                                            <a href="https://jitenderji1137.pages.dev/"><FaExternalLinkAlt/></a>
+                                        </div>
+                                    </div>
+                                    <h5 className="nowforh5">My Portfolio</h5>
+                                    <div className="nowfordiv">My portfolio website showcasing my skills, projects, and achievements in a visually appealing</div>
+                                    <ul className="forultag">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                        <li>JS</li>
+                                        <li>REACT</li>
+                                    </ul>
+                                </header>
+                            </div>
+                            <div>
+                                <header>
+                                    <div className="fileone">
+                                        <div className="fileicon"><AiOutlineFolderOpen/></div>
+                                        <div className="fileones">
+                                            <a href="https://github.com/jitenderji1137/Netflix"><AiFillGithub/></a>
+                                            <a href="https://cyan-anxious-sheep.cyclic.app/NetFlixAPI"><FaExternalLinkAlt/></a>
+                                        </div>
+                                    </div>
+                                    <h5 className="nowforh5">Free Netflix JSON Server</h5>
+                                    <div className="nowfordiv">A JSON server API specifically designed for movies, providing endpoints to access, search, and manage movie data efficiently.</div>
+                                    <ul className="forultag">
+                                        <li>HTML</li>
+                                        <li>CSS</li>
+                                    </ul>
+                                </header>
+                            </div>
+                        </div>
+                    </div>
+                    <button onClick={event =>  window.location.href='https://github.com/jitenderji1137'} className="moreprojects">View More on Github</button>
                 </section>
             </main>
         </div>
