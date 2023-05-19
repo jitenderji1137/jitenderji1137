@@ -270,7 +270,16 @@ export default function Main(){
                     </div>
                     <button onClick={event =>  window.location.href='https://github.com/jitenderji1137'} className="moreprojects">View More on Github</button>
                 </section>
+                <section className="contactinfo">
+                    <h3>Contact Info.</h3>
+                    <h4>Get In Touch</h4>
+                    <div>Feel free to reach out to me anytime. I'm here to help and will do my best to respond. Feel confident to send me any inquiries, job updates, or simply say hello. I look forward to hearing from you!</div>
+                    <a href="mailto:trademetrader1137@gmail.com">Mail Me</a>
+                </section>
             </main>
+            <footer>
+                <a href="https://github.com/jitenderji1137">Designed & Built by Jitender</a>
+            </footer>
         </div>
         </>
     );

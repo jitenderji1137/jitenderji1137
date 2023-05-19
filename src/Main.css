@@ -513,3 +513,67 @@
     padding: 1.25rem 1.75rem;
     margin: 100px auto 0px;
 }
+.contactinfo{
+    padding: 150px 0px;
+    text-align: center;
+    max-width: 600px;
+    margin: 0px auto 0px;
+}
+.contactinfo h3{
+    position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px 0px 0px;
+    width: 100%;
+    white-space: nowrap;
+    display: block;
+    color: rgb(100, 255, 218);
+    font-size: 16px;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-weight: normal;
+    -webkit-box-pack: center;
+    justify-content: center;
+
+}
+.contactinfo h3::before{
+    counter-increment: section 1;
+    content: "0" counter(section) ".";
+    margin-right: 10px;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    font-weight: normal;
+    color: rgb(100, 255, 218);
+    font-size: 20px;
+    position: relative;
+}
+.contactinfo h4{
+    font-size: 56px;
+    margin: 0;
+    font-family: "Concert One";
+}
+.contactinfo div{
+    font-size: 18px;
+}
+.contactinfo a{
+    display: inline-block;
+    text-decoration: none;
+    text-decoration-skip-ink: auto;
+    position: relative;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    cursor: pointer;
+    color: rgb(100, 255, 218);
+    background-color: transparent;
+    border: 1px solid rgb(100, 255, 218);
+    border-radius: 3px;
+    padding: 1.25rem 1.75rem;
+    font-size: 14px;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+    line-height: 1;
+    margin-top: 50px;
+}
+footer a{
+    text-decoration: none;
+    display: flex;
+    color: rgb(100, 255, 218);
+    justify-content: center;
+    font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+}
