@@ -90,7 +90,7 @@
     transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
     transition: opacity 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s, transform 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
     margin: 0px auto;
-    padding: 150px 0px;
+    padding: 100px 0px;
     max-width: 1000px;
     position: relative;
 }
@@ -238,9 +238,12 @@
     transition: opacity 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s, transform 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
     outline: none;
     margin: 0px auto;
-    padding: 150px 0px;
+    padding: 100px 0px;
     position: relative;
     max-width: 700px;
+}
+.Projects{
+    padding: 100px 0px;
 }
 .Experence h3, .Projects h3{
     position: relative;
@@ -498,6 +501,18 @@
 }
 .forultag li::marker{
     display: none;
+}
+.forultag li::after{
+    content: "";
+    display: block;
+    width: 0%;
+    height: 1px;
+    position: relative;
+    background-color: rgb(100, 255, 218);
+    transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+.forultag li:hover::after{
+    width: 100%;
 }
 .moreprojects{
     color: rgb(100, 255, 218);

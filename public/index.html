@@ -9,6 +9,9 @@
     <link href="https://fonts.googleapis.com/css?family=Concert+One" rel="stylesheet">
     <title>Jitender</title>
     <style>
+      html {
+        scroll-behavior: smooth;
+      }
       html::-webkit-scrollbar {
             width: 7px; 
         }
@@ -38,4 +41,14 @@
   <body>
     <div id="root"></div>
   </body>
+  <script>
+    window.onload = function() {
+      if (window.location.hash) {
+        var element = document.querySelector(window.location.hash);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    };
+  </script>
 </html>

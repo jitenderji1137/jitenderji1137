@@ -18,7 +18,7 @@ export default function Main(){
                         <a href="mailto:trademetrader1137@gmail.com">Get In Touch</a>
                     </div>
                 </section>
-                <section className="Aboutme">
+                <section className="Aboutme" id="about">
                     <h3>About Me</h3>
                     <div className="AboutPara">
                         <div className="AboutPara1">
@@ -48,11 +48,11 @@ export default function Main(){
                         </div>
                     </div>
                 </section>
-                <section className="Experence">
+                <section className="Experence" id="experience">
                     <h3>My Journy</h3>
                     <div></div>
                 </section>
-                <section className="Projects">
+                <section className="Projects" id="projects">
                     <h3>My Projects.</h3>
                     <div>
                         <div>
@@ -270,7 +270,7 @@ export default function Main(){
                     </div>
                     <button onClick={event =>  window.location.href='https://github.com/jitenderji1137'} className="moreprojects">View More on Github</button>
                 </section>
-                <section className="contactinfo">
+                <section className="contactinfo" id="contact">
                     <h3>Contact Info.</h3>
                     <h4>Get In Touch</h4>
                     <div>Feel free to reach out to me anytime. I'm here to help and will do my best to respond. Feel confident to send me any inquiries, job updates, or simply say hello. I look forward to hearing from you!</div>

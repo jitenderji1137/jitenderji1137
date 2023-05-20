@@ -11,10 +11,10 @@ export default function Nav(){
                     </div>
                     <div className="NavMenue">
                         <ol>
-                            <li><span>About</span></li>
-                            <li><span>Experience</span></li>
-                            <li><span>Projects</span></li>
-                            <li><span>Contact</span></li>
+                            <li onClick={event =>  window.location.href='#about'} ><span>About</span></li>
+                            <li onClick={event =>  window.location.href='#experience'} ><span>Experience</span></li>
+                            <li onClick={event =>  window.location.href='#projects'} ><span>Projects</span></li>
+                            <li onClick={event =>  window.location.href='#contact'} ><span>Contact</span></li>
                         </ol>
                         <button className="resume"><a href="https://drive.google.com/file/d/1vd2NLE51182ycV2jCtDVyJyic6peyA3E/view?usp=share_link">Resume</a></button>
                     </div>
