@@ -44,8 +44,7 @@ Connect with me :
 </div>
  <img  src="snake.svg" alt="example" />
 ### ✍️ Random Dev Quote
-![Quets](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jitenderji1137&limit=5&theme=dark&combine_all_yearly_contributions=true)
