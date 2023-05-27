@@ -43,5 +43,10 @@ Connect with me :
     
 </div>
  <img  src="snake.svg" alt="example" />
- <img  src="https://github-readme-activity-graph.cyclic.app/graph?username=jitenderji1137&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true" alt="example" />
+✍️ Random Dev Quote
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jitenderji1137&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
