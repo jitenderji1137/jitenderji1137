@@ -50,7 +50,22 @@ export default function Main(){
                 </section>
                 <section className="Experence" id="experience">
                     <h3>My Journy</h3>
-                    <div></div>
+                    <div className="myjourny">
+                        <div className="myjournydiv">
+                            <h4>My Journey towards Becoming an SDET</h4>
+                            <h5>May 27, 2023</h5>
+                            <ul>
+                                <li>Today, I sit down to reflect upon my journey so far, who aspires to become a <span>Software Development Engineer in Test (SDET)</span>. It has been a transformative path filled with challenges, learning, and growth.</li>
+                                <li>Looking back, it's all began in 2020 when I successfully completed my <span>10th-grade examinations</span>. I dedicated myself to further studies, aiming to build a promising future.</li>
+                                <li>In 2022, after clearing my <span>12th-grade examinations</span>, I felt a strong inclination towards the world of coding and <span>software development</span>. I took a leap of faith and joined <span>Masai School</span> in October 2022. This decision marked the beginning of a new chapter in my life.</li>
+                                <li>Embracing the immersive learning environment at Masai School, I embarked on a rigorous journey to acquire <span>coding skills</span> and develop a solid foundation in <span>software engineering</span>. The curriculum was designed to equip students with practical knowledge and industry-relevant expertise, ensuring we were well-prepared for <span>real-world challenges</span>.</li>
+                                <li>In January 2023, I made a pivotal decision by joining the <span>SDET</span> batch. The <span>Software Development Engineer in Test</span> role fascinated me, as it combined my passion for coding with my desire to ensure software quality and reliability. I realized that as an SDET, I could contribute to the development process by writing effective <span>test cases</span>, <span>automating tests</span>, and identifying and resolving <span>software defects</span>.</li>
+                                <li>Since then, my days have been filled with engaging lessons, <span>hands-on projects</span>, and <span>collaborative work</span> with fellow students. I've learned various programming languages, honed my <span>problem-solving</span> skills. Each step has brought me closer to <span>my goal of becoming an SDET</span>.</li>
+                                <li>While my journey is far from over, I am excited about the road ahead. I look forward to continuing my learning, exploring <span>new technologies</span>, and eventually making a positive impact in the software development industry as an SDET. With each passing day, I grow more confident in my abilities and more inspired to reach <span>new heights</span>.</li>
+                                <li>Now I can say , I can achieve my dreams and make a meaningful contribution to <span>the world of software development</span>.</li>
+                            </ul>
+                        </div>
+                    </div>
                 </section>
                 <section className="Projects" id="projects">
                     <h3>My Projects.</h3>

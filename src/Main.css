@@ -276,6 +276,57 @@
     top: 5px;
     margin-left: 20px;
 }
+.myjourny{
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+.myjournydiv{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-top: 12px;
+    padding-left: 30px;
+}
+.myjournydiv h5{
+    color: rgb(100, 255, 218);
+}
+.myjournydiv h4{
+    color: rgb(204, 214, 246);
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.myjournydiv ul li{
+    list-style: none;
+    margin-bottom: 15px;
+}
+.myjournydiv ul li span{
+    color: rgb(100, 255, 218);
+}
+.myjournydiv ul{
+    padding: 0;
+    font-size: 17px;
+}
+.myjournydiv ul li::before{
+    content: "▹";
+    position: absolute;
+    left: 5px;
+    color: rgb(100, 255, 218);
+    font-size: 20px;
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
 .Projects div div{
     display: flex;
     width: 100%;
