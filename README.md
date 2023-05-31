@@ -21,7 +21,10 @@ Connect with me :
     <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
    <br/>
    <p>
-    <img src="https://img.shields.io/badge/-Cypress-311C87?style=for-the-badge&logo=apollo-cypress" alt="Cypress" />
+    <img src="https://img.shields.io/badge/Cypress-311C87?logo=cypress&logoColor=fff&style=flat" alt="Cypress" />
+    <img src="https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=D22128&style=flat" alt="JMeter" />
+    <img src="https://img.shields.io/badge/AndroidStudio-669154?logo=androidstudio&logoColor=green&style=flat" alt="AndroidStudio" />   
+    <img src="https://img.shields.io/badge/Cucumber-348712?logo=cucumber&logoColor=fff&style=flat" alt="Cucumber" />
     <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /> 
@@ -32,6 +35,7 @@ Connect with me :
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/-VScode-336791?style=for-the-badge&logo=VScode" alt="VScode" />
+    <img src="https://img.shields.io/badge/Intellij-IDEA-000000?logo=intellijidea&logoColor=fff&style=flat" alt="Intellij" />
     <img src="https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=Netlify" alt="Netlify" />
    </p>
 </div>
