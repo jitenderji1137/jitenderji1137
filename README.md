@@ -32,16 +32,16 @@ Connect with me :
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" /> 
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" /> 
     <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat" alt="github" /> 
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/React-4d4c4a?logo=react&logoColor=61DAFB&style=flat" alt="reactjs" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="css3" /> 
     <img src="https://img.shields.io/badge/Node.js-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/ChakraUI-319795?logo=chakraui&logoColor=fff&style=flat" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/Visual-Studiocode-007ACC?logo=visualstudiocode&logoColor=007ACC&style=flat" alt="VScode" />
     <img src="https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="Pycharm" />
     <img src="https://img.shields.io/badge/Intellij-IDEA-000000?logo=intellijidea&logoColor=fff&style=flat" alt="Intellij" />
-    <img src="https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=Netlify" alt="Netlify" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat" alt="Netlify" />
    </p>
 </div>
 
