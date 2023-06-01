@@ -22,19 +22,24 @@ Connect with me :
    <br/>
    <p>
     <img src="https://img.shields.io/badge/Cypress-311C87?logo=cypress&logoColor=fff&style=flat" alt="Cypress" />
+    <img src="https://img.shields.io/badge/Selenium-4d4c4a?logo=selenium&logoColor=43B02A&style=flat" alt="Selenium" />
     <img src="https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=D22128&style=flat" alt="JMeter" />
     <img src="https://img.shields.io/badge/AndroidStudio-669154?logo=androidstudio&logoColor=green&style=flat" alt="AndroidStudio" />   
     <img src="https://img.shields.io/badge/Cucumber-348712?logo=cucumber&logoColor=fff&style=flat" alt="Cucumber" />
-    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /> 
+    <img src="https://img.shields.io/badge/Firebase-ffdd00?logo=firebase&logoColor=white&style=flat" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Jenkins-181717?logo=jenkins&logoColor=D24939&style=flat" alt="Jenkins" />               <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=3776AB&style=flat" alt="Python" />
+    <img src="https://img.shields.io/badge/javascript-181717?logo=javascript&logoColor=ffdd00&style=flat" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" /> 
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" /> 
+    <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat" alt="github" /> 
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/React-4d4c4a?logo=react&logoColor=61DAFB&style=flat" alt="reactjs" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="css3" /> 
+    <img src="https://img.shields.io/badge/Node.js-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/-VScode-336791?style=for-the-badge&logo=VScode" alt="VScode" />
+    <img src="https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="Pycharm" />
     <img src="https://img.shields.io/badge/Intellij-IDEA-000000?logo=intellijidea&logoColor=fff&style=flat" alt="Intellij" />
     <img src="https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=Netlify" alt="Netlify" />
    </p>
