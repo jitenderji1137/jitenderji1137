@@ -38,7 +38,7 @@ Connect with me :
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="css3" /> 
     <img src="https://img.shields.io/badge/Node.js-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/-VScode-336791?style=for-the-badge&logo=VScode" alt="VScode" />
+    <img src="https://img.shields.io/badge/Visual-Studiocode-007ACC?logo=visualstudiocode&logoColor=007ACC&style=flat" alt="VScode" />
     <img src="https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="Pycharm" />
     <img src="https://img.shields.io/badge/Intellij-IDEA-000000?logo=intellijidea&logoColor=fff&style=flat" alt="Intellij" />
     <img src="https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=Netlify" alt="Netlify" />
