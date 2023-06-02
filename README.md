@@ -43,6 +43,7 @@ Connect with me :
     <img src="https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="Pycharm" />
     <img src="https://img.shields.io/badge/Intellij-IDEA-000000?logo=intellijidea&logoColor=fff&style=flat" alt="Intellij" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat" alt="Netlify" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare" />   
    </p>
 </div>
 
