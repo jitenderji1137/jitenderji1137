@@ -24,8 +24,8 @@ Connect with me :
     <img src="https://img.shields.io/badge/Cypress-311C87?logo=cypress&logoColor=fff&style=flat" alt="Cypress" />
     <img src="https://img.shields.io/badge/Selenium-4d4c4a?logo=selenium&logoColor=43B02A&style=flat" alt="Selenium" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" /> 
-    <img src="https://img.shields.io/badge/WebdriverIO-EA5906?logo=webdriverio&logoColor=fff&style=flat" alt="WebdriverIO" />
     <img src="https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=D22128&style=flat" alt="JMeter" />
+    <img src="https://img.shields.io/badge/WebdriverIO-EA5906?logo=webdriverio&logoColor=fff&style=flat" alt="WebdriverIO" />
     <img src="https://img.shields.io/badge/Android-Studio-669154?logo=androidstudio&logoColor=green&style=flat" alt="AndroidStudio" />   
     <img src="https://img.shields.io/badge/Cucumber-348712?logo=cucumber&logoColor=fff&style=flat" alt="Cucumber" />
     <img src="https://img.shields.io/badge/Firebase-ffdd00?logo=firebase&logoColor=white&style=flat" alt="Firebase" />
