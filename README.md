@@ -23,14 +23,14 @@ Connect with me :
    <p>
     <img src="https://img.shields.io/badge/Cypress-311C87?logo=cypress&logoColor=fff&style=flat" alt="Cypress" />
     <img src="https://img.shields.io/badge/Selenium-4d4c4a?logo=selenium&logoColor=43B02A&style=flat" alt="Selenium" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" />   
     <img src="https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=D22128&style=flat" alt="JMeter" />
     <img src="https://img.shields.io/badge/AndroidStudio-669154?logo=androidstudio&logoColor=green&style=flat" alt="AndroidStudio" />   
     <img src="https://img.shields.io/badge/Cucumber-348712?logo=cucumber&logoColor=fff&style=flat" alt="Cucumber" />
     <img src="https://img.shields.io/badge/Firebase-ffdd00?logo=firebase&logoColor=white&style=flat" alt="Firebase" />
     <img src="https://img.shields.io/badge/Jenkins-181717?logo=jenkins&logoColor=D24939&style=flat" alt="Jenkins" />               <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=3776AB&style=flat" alt="Python" />
     <img src="https://img.shields.io/badge/javascript-181717?logo=javascript&logoColor=ffdd00&style=flat" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" /> 
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" /> 
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" />  
     <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat" alt="github" /> 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/React-4d4c4a?logo=react&logoColor=61DAFB&style=flat" alt="reactjs" />
