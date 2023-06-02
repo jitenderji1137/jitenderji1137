@@ -6,6 +6,15 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenderji1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitenderji1137" /> </p>
+- 🔭 I’m currently working on **Projects**
+
+- 🌱 I’m currently learning **JMeter and Cloud computing**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://jitenderji1137.pages.dev/)
+
+- 📄 Check [Resume](https://drive.google.com/file/d/1F9aVEvCZxGnoVe84yBlQ1FY8qCNyRc7z/view?usp=share_link)
+
+- 📫 How to reach me **trademetrader1137@gmail.com**
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
