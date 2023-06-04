@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET)" alt="A passionate to be a Tester" />
 </p> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET);Front-End+Web+Developer;Cypress%20|%20Selenium%20|%20Postman%20JMeter;Always%20learning%20new%20things&center=true&width=100%&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Software+Development+Engineer+in+Test+(SDET);Front-End+Web+Developer;Cypress%20|%20Selenium%20|%20Postman%20JMeter;Always%20learning%20new%20things&center=true&width=710&height=45"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenderji1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitenderji1137" /> </p>
