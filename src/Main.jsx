@@ -118,25 +118,25 @@ export default function Main(){
                             </a>
                         </div>
                         <div>
-                            <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
-                                <img src="https://user-images.githubusercontent.com/113350806/236673378-32a37258-4ccf-48e4-9ae5-046d6004a023.png" alt="" />
+                            <a href="https://github.com/jitenderji1137/Performance-Testing-Using-JMeter">
+                                <img src="https://user-images.githubusercontent.com/113350806/243560914-176e6ce8-c50f-41e3-944f-6e061fe78594.png" alt="" />
                             </a>
                             <div>
-                                <h4>API Testing Project.</h4>
+                                <h4>Performance Testing Project.</h4>
                                 <h5>
-                                    <a href="/">Github API Testing Project</a>
+                                    <a href="/">Performance Testing Using JMeter</a>
                                 </h5>
                                 <div className="float">
-                                    <p>Streamline your GitHub API testing and integration by leveraging powerful GitHub APIs. Enhance collaboration, automate workflows, and unlock the full potential of your projects with seamless API interactions.</p>
-                                    <p>Tested all the <span>API requests</span> of GitHub</p>
+                                    <p>As This Project was related to Performance testing, We need to test JPetStore Demo and Github API using JMeter.</p>
+                                    <p>Tested all the <span>API requests</span> using JMeter</p>
                                 </div>
                                 <ul>
-                                    <li>Postman</li>
-                                    <li>Cypress</li>
-                                    <li>REST Assured</li>
+                                    <li>JMeter</li>
+                                    <li>MySQL</li>
+                                    <li>Grafana</li>
                                 </ul>
                                 <div>
-                                <a href="https://github.com/jitenderji1137/Github-API-Testing-Project" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
+                                <a href="https://github.com/jitenderji1137/Performance-Testing-Using-JMeter" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
                                 </div>
                             </div>
                         </div>
