@@ -12,7 +12,7 @@ export default function Nav(){
                     <div className="NavMenue">
                         <ol>
                             <li onClick={event =>  window.location.href='#about'} ><span>About</span></li>
-                            <li onClick={event =>  window.location.href='#experience'} ><span>Experience</span></li>
+                            <li onClick={event =>  window.location.href='#Journy'} ><span>Journy</span></li>
                             <li onClick={event =>  window.location.href='#projects'} ><span>Projects</span></li>
                             <li onClick={event =>  window.location.href='#contact'} ><span>Contact</span></li>
                         </ol>

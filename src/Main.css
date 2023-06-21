@@ -34,7 +34,7 @@
 }
 .MyName h3{
     margin: 0;
-    font-size: 65px;
+    font-size: 40px;
     line-height: 1.1;
     color: rgb(136, 146, 176);
 }
@@ -316,17 +316,6 @@
     font-size: 20px;
     line-height: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
 .Projects div div{
     display: flex;
     width: 100%;
@@ -361,7 +350,7 @@
 .float p{
     font-size: 15px;
 }
-.float p span{
+.float p span,.float-left p span{
     color: rgb(100, 255, 218);
 }
 .Projects div div div ul{

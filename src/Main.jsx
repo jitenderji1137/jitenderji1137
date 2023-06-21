@@ -1,6 +1,8 @@
 import "./Main.css";
 import { AiFillGithub,AiOutlineFolderOpen} from "react-icons/ai";
 import { FaExternalLinkAlt} from "react-icons/fa";
+import GitHubCalendar from 'react-github-calendar';
+import Typewriter from "typewriter-effect";
 export default function Main(){
     return(
         <>
@@ -9,7 +11,14 @@ export default function Main(){
                 <section className="MyName">
                     <h1>Hello, my name is</h1>
                     <h2>Jitender.</h2>
-                    <h3>I love exploring new things!</h3>
+                    <h3> <Typewriter
+                            options={{
+                            strings: ["Welcome to my Portfolio","Software Development Engineer in Test (SDET)","Front-End Web Developer","Cypress | Selenium | Postman | JMeter | And-More","Always learning new things"],
+                            autoStart: true,
+                            loop: true,
+                            deleteSpeed: 50
+                            }}
+                        /></h3>
                     <div className="paragraph">
                         <p>As a <a href="https://masaischool.com/">Masai School</a> graduate, I possess a unique set of skills and knowledge that enable me to innovate new idea's. I have developed a strong foundation in programming languages and technologies, allowing me to review high-quality products.</p>
                         <p>I enjoy learning new skills and implementing them in real life!</p>
@@ -48,7 +57,7 @@ export default function Main(){
                         </div>
                     </div>
                 </section>
-                <section className="Experence" id="experience">
+                <section className="Experence" id="Journy">
                     <h3>My Journy</h3>
                     <div className="myjourny">
                         <div className="myjournydiv">
@@ -142,25 +151,24 @@ export default function Main(){
                         </div>
                         <div className="Projects2">
                             <div>
-                                <h4>API Testing Project.</h4>
+                                <h4>Cypress Project.</h4>
                                 <h5>
-                                    <a href="/">Github API Testing Project</a>
+                                    <a href="/">Thesouledstore with Cypress , Project</a>
                                 </h5>
                                 <div className="float-left">
-                                    <p>Streamline your GitHub API testing and integration by leveraging powerful GitHub APIs. Enhance collaboration, automate workflows, and unlock the full potential of your projects with seamless API interactions.</p>
-                                    <p>Tested all the <span>API requests</span> of GitHub</p>
+                                    <p>I used Cypress to test the login and navigation functions of Thesouledstore. The tests were successful, ensuring that users can log in to the website and navigate through its pages without any issues.</p>
+                                    <p>Tested two modules of <span>Thesouledstore</span> with Cypress</p>
                                 </div>
                                 <ul>
-                                    <li>Postman</li>
+                                    <li>JavaScript</li>
                                     <li>Cypress</li>
-                                    <li>REST Assured</li>
                                 </ul>
                                 <div>
                                 <a href="https://github.com/jitenderji1137/Github-API-Testing-Project" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
                                 </div>
                             </div>
                             <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
-                                <img src="https://user-images.githubusercontent.com/113350806/236673378-32a37258-4ccf-48e4-9ae5-046d6004a023.png" alt="" />
+                                <img src="https://user-images.githubusercontent.com/113350806/247505686-b7d07041-c3f7-480b-aa07-f44cbfc86cd3.png" alt="" />
                             </a>
                         </div>
                     </div>
@@ -286,6 +294,7 @@ export default function Main(){
                     </div>
                     <button onClick={event =>  window.location.href='https://github.com/jitenderji1137'} className="moreprojects">View More on Github</button>
                 </section>
+                <GitHubCalendar style={{width:"100%"}} username="jitenderji1137" blockSize={17} blockMargin={8} fontSize={16}/>
                 <section className="contactinfo" id="contact">
                     <h3>Contact Info.</h3>
                     <h4>Get In Touch</h4>
@@ -294,7 +303,7 @@ export default function Main(){
                 </section>
             </main>
             <footer>
-                <a href="https://github.com/jitenderji1137">Designed & Built by Jitender</a>
+                <a href="https://github.com/jitenderji1137">Made with ❤ By Jitender</a>
             </footer>
         </div>
         </>
