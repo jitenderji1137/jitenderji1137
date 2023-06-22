@@ -81,7 +81,7 @@ export default function Main(){
                     <div>
                         <div>
                             <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
-                                <img src="https://user-images.githubusercontent.com/113350806/236673378-32a37258-4ccf-48e4-9ae5-046d6004a023.png" alt="" />
+                                <img src="https://user-images.githubusercontent.com/113350806/236556146-ea476d1a-954e-4aa0-ac13-3b88b90b87db.png" alt="" />
                             </a>
                             <div>
                                 <h4>API Testing Project.</h4>
