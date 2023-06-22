@@ -164,10 +164,10 @@ export default function Main(){
                                     <li>Cypress</li>
                                 </ul>
                                 <div>
-                                <a href="https://github.com/jitenderji1137/Github-API-Testing-Project" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
+                                <a href="https://github.com/jitenderji1137/Thesouledstore-Automation" target="_blank" rel="nofollow noopener noreferrer"><AiFillGithub/></a>
                                 </div>
                             </div>
-                            <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
+                            <a href="https://github.com/jitenderji1137/Thesouledstore-Automation">
                                 <img src="https://user-images.githubusercontent.com/113350806/247505686-b7d07041-c3f7-480b-aa07-f44cbfc86cd3.png" alt="" />
                             </a>
                         </div>
