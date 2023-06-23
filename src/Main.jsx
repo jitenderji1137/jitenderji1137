@@ -303,7 +303,7 @@ export default function Main(){
                 </section>
             </main>
             <footer>
-                <a href="https://github.com/jitenderji1137">Made with ❤ By Jitender</a>
+                <a href="https://github.com/jitenderji1137">Made with <span style={{color:"red",margin:"0 5px"}}>❤</span> By Jitender</a>
             </footer>
         </div>
         </>
