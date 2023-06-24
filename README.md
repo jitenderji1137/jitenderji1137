@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jitenderji1137.pages.dev/)
 
-- 📄 Check [Resume](https://drive.google.com/file/d/1-utAzDATfLL1yFJuaqavtpvGjnoMMKKR/view)
+- 📄 Check [Resume](https://drive.google.com/file/d/17PKdfRlM3vV-gBJ2RfUyKUul4zO9gwCN/view?usp=sharing)
 
 - 📫 How to reach me **trademetrader1137@gmail.com**
 <samp>
