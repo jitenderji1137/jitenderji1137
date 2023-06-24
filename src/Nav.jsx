@@ -16,7 +16,7 @@ export default function Nav(){
                             <li onClick={event =>  window.location.href='#projects'} ><span>Projects</span></li>
                             <li onClick={event =>  window.location.href='#contact'} ><span>Contact</span></li>
                         </ol>
-                        <button className="resume"><a href="https://drive.google.com/file/d/1vd2NLE51182ycV2jCtDVyJyic6peyA3E/view?usp=share_link">Resume</a></button>
+                        <button className="resume"><a href="https://drive.google.com/file/d/17PKdfRlM3vV-gBJ2RfUyKUul4zO9gwCN/view?usp=sharing">Resume</a></button>
                     </div>
                 </nav>
             </header>
