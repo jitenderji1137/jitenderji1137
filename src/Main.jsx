@@ -57,7 +57,7 @@ export default function Main(){
                         </div>
                     </div>
                 </section>
-                <section className="Experence" id="Journy">
+                <section className="Experence" id="Journey">
                     <h3>My Journy</h3>
                     <div className="myjourny">
                         <div className="myjournydiv">
