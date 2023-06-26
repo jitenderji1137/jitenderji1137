@@ -13,7 +13,7 @@ export default function Main(){
                     <h2>Jitender.</h2>
                     <h3> <Typewriter
                             options={{
-                            strings: ["Welcome to my Portfolio","Software Development Engineer in Test (SDET)","Front-End Web Developer","Cypress | Selenium | Postman | JMeter | And-More","Always learning new things"],
+                            strings: ["Welcome to my Portfolio","Software Development Engineer in Test (SDET)","Quality assurance | Software testing","Cypress | Selenium | WebdriverIO | Postman | And-More","Always learning new things"],
                             autoStart: true,
                             loop: true,
                             deleteSpeed: 50
@@ -35,7 +35,7 @@ export default function Main(){
                                 <p>Hello! I'm <span>Jitender</span>, from <span>Haryana</span>, is known for its agricultural and industrial production.</p>
                                 <p>I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.</p>
                                 <p></p>
-                                <p>I have successfully achieved <span>70%</span> in <span>12th</span> standard(<span>2021-2022</span>), paving the way for a <span>bright future</span>.</p>
+                                <p>I have successfully achieved <span>68%</span> in <span>12th</span> standard(<span>2021-2022</span>), paving the way for a <span>bright future</span>.</p>
                                 <p>Here are few of the activities that <span>I love to do</span>!</p>
                             </div>
                             <ul>
@@ -66,10 +66,10 @@ export default function Main(){
                             <ul>
                                 <li>Today, I sit down to reflect upon my journey so far, who aspires to become a <span>Software Development Engineer in Test (SDET)</span>. It has been a transformative path filled with challenges, learning, and growth.</li>
                                 <li>Looking back, it's all began in 2020 when I successfully completed my <span>10th-grade examinations</span>. I dedicated myself to further studies, aiming to build a promising future.</li>
-                                <li>In 2022, after clearing my <span>12th-grade examinations</span>, I felt a strong inclination towards the world of coding and <span>software development</span>. I took a leap of faith and joined <span>Masai School</span> in October 2022. This decision marked the beginning of a new chapter in my life.</li>
-                                <li>Embracing the immersive learning environment at Masai School, I embarked on a rigorous journey to acquire <span>coding skills</span> and develop a solid foundation in <span>software engineering</span>. The curriculum was designed to equip students with practical knowledge and industry-relevant expertise, ensuring we were well-prepared for <span>real-world challenges</span>.</li>
+                                <li>In 2022, after clearing my <span>12th-grade examinations</span>, I felt a strong inclination towards the world of coding and <span>software Engineer</span>. I took a leap of faith and joined <span>Masai School</span> in 2022. This decision marked the beginning of a new chapter in my life.</li>
+                                {/* <li>Embracing the immersive learning environment at Masai School, I embarked on a rigorous journey to acquire <span>coding skills</span> and develop a solid foundation in <span>software engineering</span>. The curriculum was designed to equip students with practical knowledge and industry-relevant expertise, ensuring we were well-prepared for <span>real-world challenges</span>.</li> */}
                                 <li>In January 2023, I made a pivotal decision by joining the <span>SDET</span> batch. The <span>Software Development Engineer in Test</span> role fascinated me, as it combined my passion for coding with my desire to ensure software quality and reliability. I realized that as an SDET, I could contribute to the development process by writing effective <span>test cases</span>, <span>automating tests</span>, and identifying and resolving <span>software defects</span>.</li>
-                                <li>Since then, my days have been filled with engaging lessons, <span>hands-on projects</span>, and <span>collaborative work</span> with fellow students. I've learned various programming languages, honed my <span>problem-solving</span> skills. Each step has brought me closer to <span>my goal of becoming an SDET</span>.</li>
+                                <li>Since then, my days have been filled with engaging lessons, <span>hands-on projects</span>, and <span>collaborative work</span> with fellow Member. I've learned various programming languages, honed my <span>problem-solving</span> skills. Each step has brought me closer to <span>my goal of becoming an SDET</span>.</li>
                                 <li>While my journey is far from over, I am excited about the road ahead. I look forward to continuing my learning, exploring <span>new technologies</span>, and eventually making a positive impact in the software development industry as an SDET. With each passing day, I grow more confident in my abilities and more inspired to reach <span>new heights</span>.</li>
                                 <li>Now I can say , I can achieve my dreams and make a meaningful contribution to <span>the world of software development</span>.</li>
                             </ul>
@@ -173,7 +173,7 @@ export default function Main(){
                         </div>
                     </div>
                 </section>
-                <section className="otherprojects">
+                {/* <section className="otherprojects">
                     <h4>Other Noteworthy Projects</h4>
                     <a className="viewcode" href="https://github.com/jitenderji1137">View Complete List of Projects/Codes</a>
                     <div>
@@ -293,8 +293,19 @@ export default function Main(){
                         </div>
                     </div>
                     <button onClick={event =>  window.location.href='https://github.com/jitenderji1137'} className="moreprojects">View More on Github</button>
+                </section> */}
+                <section className="contactinf">
+                    <h4>Days I Code</h4>
                 </section>
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jitenderji1137&show_icons=true&theme=dark" style={{borderRadius: "20px"}} width="100%" alt=""/>
+                <div style={{display: "flex", justifyContent: "center", alignItems: "center"}}>
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitenderji1137&show_icons=true&theme=dark" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jitenderji1137&show_icons=true&theme=dark" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/> 
+                </div>
                 <GitHubCalendar style={{width:"100%"}} username="jitenderji1137" blockSize={17} blockMargin={8} fontSize={16}/>
+                <div style={{display:"flex"}}>
+                    <button onClick={event =>  window.location.href='https://github.com/jitenderji1137'} className="moreprojects">View More on Github</button>
+                </div>
                 <section className="contactinfo" id="contact">
                     <h3>Contact Info.</h3>
                     <h4>Get In Touch</h4>
