@@ -13,7 +13,7 @@ export default function Main(){
                     <h2>Jitender.</h2>
                     <h3> <Typewriter
                             options={{
-                            strings: ["Welcome to my Portfolio","Software Development Engineer in Test (SDET)","Quality assurance | Software testing","Cypress | Selenium | WebdriverIO | Postman | And-More","Always learning new things"],
+                            strings: ["Welcome to my Portfolio","Software Development Engineer in Test (SDET)","Quality assurance | Software testing","Cypress | Selenium | WebdriverIO | And-More","Always learning new things"],
                             autoStart: true,
                             loop: true,
                             deleteSpeed: 50
