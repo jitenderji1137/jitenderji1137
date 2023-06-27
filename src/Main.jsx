@@ -20,8 +20,8 @@ export default function Main(){
                             }}
                         /></h3>
                     <div className="paragraph">
-                        <p>As a <a href="https://masaischool.com/">Masai School</a> graduate, I possess a unique set of skills and knowledge that enable me to innovate new idea's. I have developed a strong foundation in programming languages and technologies, allowing me to review high-quality products.</p>
-                        <p>I enjoy learning new skills and implementing them in real life!</p>
+                        <p>As a <a href="https://masaischool.com/">Masai School</a> graduate, I possess a unique set of skills and knowledge that enable me to innovate new ideas. I have developed a strong foundation in programming languages and technologies, allowing me to review high-quality products.</p>
+                        <p>I enjoy learning and implementing new skills in real life!</p>
                     </div>
                     <div className="Getintouch">
                         <a href="mailto:trademetrader1137@gmail.com">Get In Touch</a>
@@ -32,8 +32,8 @@ export default function Main(){
                     <div className="AboutPara">
                         <div className="AboutPara1">
                             <div>
-                                <p>Hello! I'm <span>Jitender</span>, from <span>Haryana</span>, is known for its agricultural and industrial production.</p>
-                                <p>I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.</p>
+                                <p>Hello! I'm <span>Jitender</span>, from <span>Haryana</span>, which is known for its agricultural and industrial production.</p>
+                                <p>I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethics and a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.</p>
                                 <p></p>
                                 <p>I have successfully achieved <span>68%</span> in <span>12th</span> standard(<span>2021-2022</span>), paving the way for a <span>bright future</span>.</p>
                                 <p>Here are few of the activities that <span>I love to do</span>!</p>
@@ -64,14 +64,14 @@ export default function Main(){
                             <h4>My Journey towards Becoming an SDET</h4>
                             <h5>May 27, 2023</h5>
                             <ul>
-                                <li>Today, I sit down to reflect upon my journey so far, who aspires to become a <span>Software Development Engineer in Test (SDET)</span>. It has been a transformative path filled with challenges, learning, and growth.</li>
-                                <li>Looking back, it's all began in 2020 when I successfully completed my <span>10th-grade examinations</span>. I dedicated myself to further studies, aiming to build a promising future.</li>
+                                <li>Today, I sit down to reflect upon my journey so far, who aspire to become a <span>Software Development Engineer in Test (SDET)</span>. It has been a transformative path filled with challenges, learning, and growth.</li>
+                                <li>Looking back, it all began in 2020 when I successfully completed my <span>10th-grade examinations</span>. I dedicated myself to further studies, aiming to build a promising future.</li>
                                 <li>In 2022, after clearing my <span>12th-grade examinations</span>, I felt a strong inclination towards the world of coding and <span>software Engineer</span>. I took a leap of faith and joined <span>Masai School</span> in 2022. This decision marked the beginning of a new chapter in my life.</li>
                                 {/* <li>Embracing the immersive learning environment at Masai School, I embarked on a rigorous journey to acquire <span>coding skills</span> and develop a solid foundation in <span>software engineering</span>. The curriculum was designed to equip students with practical knowledge and industry-relevant expertise, ensuring we were well-prepared for <span>real-world challenges</span>.</li> */}
                                 <li>In January 2023, I made a pivotal decision by joining the <span>SDET</span> batch. The <span>Software Development Engineer in Test</span> role fascinated me, as it combined my passion for coding with my desire to ensure software quality and reliability. I realized that as an SDET, I could contribute to the development process by writing effective <span>test cases</span>, <span>automating tests</span>, and identifying and resolving <span>software defects</span>.</li>
-                                <li>Since then, my days have been filled with engaging lessons, <span>hands-on projects</span>, and <span>collaborative work</span> with fellow Member. I've learned various programming languages, honed my <span>problem-solving</span> skills. Each step has brought me closer to <span>my goal of becoming an SDET</span>.</li>
-                                <li>While my journey is far from over, I am excited about the road ahead. I look forward to continuing my learning, exploring <span>new technologies</span>, and eventually making a positive impact in the software development industry as an SDET. With each passing day, I grow more confident in my abilities and more inspired to reach <span>new heights</span>.</li>
-                                <li>Now I can say , I can achieve my dreams and make a meaningful contribution to <span>the world of software development</span>.</li>
+                                <li>Since then, my days have been filled with engaging lessons, <span>hands-on projects</span>, and <span>collaborative work</span> with fellow Members. I've learned various programming languages and honed my <span>problem-solving</span> skills. Each step has brought me closer to <span>my goal of becoming an SDET</span>.</li>
+                                <li>While my journey is far from over, I am excited about the road ahead. I look forward to continuing my learning, exploring <span>new technologies</span>, and eventually making a positive impact in the software development industry as an SDET. Each day, I grow more confident in my abilities and more inspired to reach <span>new heights</span>.</li>
+                                <li>Now I can say, I can achieve my dreams and make a meaningful contribution to <span>the world of software Engineer</span>.</li>
                             </ul>
                         </div>
                     </div>
@@ -309,7 +309,7 @@ export default function Main(){
                 <section className="contactinfo" id="contact">
                     <h3>Contact Info.</h3>
                     <h4>Get In Touch</h4>
-                    <div>Feel free to reach out to me anytime. I'm here to help and will do my best to respond. Feel confident to send me any inquiries, job updates, or simply say hello. I look forward to hearing from you!</div>
+                    <div>Feel free to reach out to me anytime. I'm here to help and will do my best to respond. Feel confident to send me any inquiries, or job updates, or simply say hello. I look forward to hearing from you!</div>
                     <a href="mailto:trademetrader1137@gmail.com">Mail Me</a>
                 </section>
             </main>
