@@ -639,3 +639,57 @@ footer a{
     justify-content: center;
     font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
 }
+.myrealtimeproject{
+    border: 2px solid rgb(100, 255, 218);
+    padding: 20px;
+    height: max-content;
+    border-radius: 10px;
+    margin: 20px;
+    margin-bottom: 100px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+#realtext{
+    color: rgb(100, 255, 218);
+    font-family: "Concert One";
+    margin: 25px;
+    font-size: 25px;
+    cursor: pointer;
+}
+#realtext::after{
+    content: "";
+    display: block;
+    height: 1px;
+    width: 300px;
+    background-color: rgb(100, 255, 218);
+    position: relative;
+    top: 15px;
+    margin-left: 20px;
+}
+#realtimepara{
+    font-size: 18px;
+    margin: auto;
+    font-family: "Concert One";
+    width: 80%;
+}
+#realabout{
+    color: rgb(100, 255, 218);
+    margin: 40px;
+    width: auto;
+    cursor: pointer;
+    font-family: "Concert One";
+    display: flex;
+    justify-content: center;
+}
+#realul{
+    display: flex;
+    justify-content: center;
+}
+#realul li{
+    margin: 20px;
+    color: rgb(100, 255, 218);
+    font-family: "Concert One";
+    cursor: pointer;
+}

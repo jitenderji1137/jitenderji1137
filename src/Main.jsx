@@ -78,6 +78,16 @@ export default function Main(){
                 </section>
                 <section className="Projects" id="projects">
                     <h3>My Projects.</h3>
+                    <div className="myrealtimeproject">
+                        <div id="realtext">Real-time LMS Project</div>
+                        <div id="realabout">About this project</div>
+                        <div id="realtimepara">During my time at Masai School, I had the chance to lead a team of four students in a real-world project. Our project was all about testing a Learning Management System (LMS), which helps people learn online. To make sure the LMS worked perfectly, we used a special tool called pytest. As the student lead, I guided our team in testing every part of the LMS to check if it was working well and without any errors. With our hard work and teamwork, we successfully tested the LMS and made sure it was reliable and user-friendly. This experience not only improved my testing skills but also taught me how to lead and collaborate effectively in a group project, which I'm proud to include in my portfolio.</div>
+                        <ul id="realul">
+                                <li>Python</li>
+                                <li>Pytest</li>
+                                <li>Selenium</li>
+                        </ul>
+                    </div>
                     <div>
                         <div>
                             <a href="https://github.com/jitenderji1137/Github-API-Testing-Project">
