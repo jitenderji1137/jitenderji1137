@@ -194,7 +194,7 @@ export default function Main(){
                                         <div className="fileicon"><AiOutlineFolderOpen/></div>
                                         <div className="fileones">
                                             <a href="https://github.com/jitenderji1137/Free-Netflix"><AiFillGithub/></a>
-                                            <a href="https://free-netflix.pages.dev/"><FaExternalLinkAlt/></a>
+                                            <a href="https://free-netflix.vercel.app/"><FaExternalLinkAlt/></a>
                                         </div>
                                     </div>
                                     <h5 className="nowforh5">Movie Streaming Site</h5>
