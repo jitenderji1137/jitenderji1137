@@ -183,7 +183,7 @@ export default function Main(){
                         </div>
                     </div>
                 </section>
-                {/* <section className="otherprojects">
+                <section className="otherprojects">
                     <h4>Other Noteworthy Projects</h4>
                     <a className="viewcode" href="https://github.com/jitenderji1137">View Complete List of Projects/Codes</a>
                     <div>
@@ -303,7 +303,7 @@ export default function Main(){
                         </div>
                     </div>
                     <button onClick={event =>  window.location.href='https://github.com/jitenderji1137'} className="moreprojects">View More on Github</button>
-                </section> */}
+                </section>
                 <section className="contactinf">
                     <h4>Days I Code</h4>
                 </section>
