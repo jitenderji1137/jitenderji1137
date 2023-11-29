@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenderji1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitenderji1137" /> </p>
 
-- 🔭 I’m currently working on **Real Time Projects** in Masai School
+- 🔭 I’m currently working in **Es Magico Tech Studio** Company
 
-- 🌱 I’m currently learning **pytest**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jitenderji1137.pages.dev/)
 
